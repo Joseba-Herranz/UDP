@@ -1,0 +1,15 @@
+W:\Mi unidad\2DAW3\UDP\server\bin\Debug\net6.0\server.exe
+W:\Mi unidad\2DAW3\UDP\server\bin\Debug\net6.0\server.deps.json
+W:\Mi unidad\2DAW3\UDP\server\bin\Debug\net6.0\server.runtimeconfig.json
+W:\Mi unidad\2DAW3\UDP\server\bin\Debug\net6.0\server.dll
+W:\Mi unidad\2DAW3\UDP\server\bin\Debug\net6.0\server.pdb
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\server.dll
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\refint\server.dll
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\server.pdb
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+W:\Mi unidad\2DAW3\UDP\server\obj\Debug\net6.0\ref\server.dll
